@@ -1,10 +1,3 @@
-"""
-Monte‑Carlo exploration of how Type I (FWER/FDR) and Type II error rates
-behave as the number of simultaneous hypothesis tests grows, under three
-procedures: no correction, Bonferroni, Benjamini–Hochberg.
-
-© 2025  –  feel free to reuse.
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
